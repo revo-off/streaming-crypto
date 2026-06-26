@@ -1,0 +1,6 @@
+confluent-kafka
+websocket-client==1.8.0
+redis
+fastapi
+uvicorn
+websockets
